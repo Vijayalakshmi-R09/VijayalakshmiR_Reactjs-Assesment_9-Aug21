@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "firstname": "John",
+      "lastname": "Peter",
+      "age": "21",
+      "gen": "Male",
+      "email": "jonhy@gmail.com",
+      "phonenumber": "9874563210",
+      "institute": "Hogwarts",
+      "department": "MS",
+      "country": "US",
+      "id": 1
+    },
+    {
+      "firstname": "David",
+      "lastname": "Schectur",
+      "age": "24",
+      "gen": "Male",
+      "email": "dave@gmail.com",
+      "phonenumber": "9874563201",
+      "institute": "Stanford",
+      "department": "Arts",
+      "country": "UK",
+      "id": 2
+    }
+  ]
+}
