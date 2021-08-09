@@ -42,6 +42,7 @@ export default function Register() {
             console.log("=============Submitted");
             console.log(values);
             setSubmitted(true);
+            alert("Submitted successfully");
            
 
             const reqOptios = {
